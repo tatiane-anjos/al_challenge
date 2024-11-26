@@ -4,6 +4,7 @@
 # Gabriela Gouveia Gil RM 559997
 # Mateus Enrique Mojica Pascoal RM 85765
 # Mateus Barbosa da Silva RM 561085
+# Gustavo Gimenez Gozzi RM 560053
 
 
 #pip install matplotlib
